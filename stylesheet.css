@@ -1,0 +1,31 @@
+h1{ font-weight:bold; font-size:18pt; font-family: Verdana;}
+
+h2{ font-weight:bold; text-decoration:underline; font-size:14pt; font-family: Arial;}
+
+h3{ font-weight:bold; font-size:12pt; }
+
+ul{ list-style-type: disc; }
+
+.centerDiv1 {
+	margin: 0 auto;
+	border-top:2px solid black;
+	border-right:2px solid black;
+	border-left:2px solid black;
+	border-bottom:0px;
+	width: 75%;
+	background-color: white;
+	padding: 0.5px;
+}
+
+.centerDiv2 {
+	margin: 0 auto;
+	border-top:0px;
+	border-right:2px solid black;
+	border-left:2px solid black;
+	border-bottom:2px solid black;
+	width: 75%;
+	background-color: white;
+	padding: 0.5px;
+}
+
+.centerText{ text-align:center; }
