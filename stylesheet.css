@@ -29,3 +29,17 @@ ul{ list-style-type: disc; }
 }
 
 .centerText{ text-align:center; }
+
+.headDesign {
+	background-color: #6F8EA2;
+	margin: 0;
+	padding: 5px;
+	border: 5px solid #28516C;
+}
+
+.mainDesign {
+	background-color: #D27D36;
+	margin: 0px;
+	padding: 5px;
+	border: 5px solid #883F03;
+}
